@@ -70,5 +70,5 @@ Building this project gave me hands-on experience converting a React/Vite projec
 
 ##  Contact
 
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [Your Email]
+- **LinkedIn:** www.linkedin.com/in/kiasha-harilal-45a5362b1
+- **Email:** Kiasha.harilal@gmail.com
